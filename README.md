@@ -7,7 +7,7 @@ Authors: Tianan Li, Zhenhan Chen, Cheng Wang
 
 
 
-<div align=center><img src="https://user-images.githubusercontent.com/58378560/196117836-5777b9e6-bce6-466d-984d-81b4c5ad0a23.png" width="80%"  ></div>
+<div align=center><img src="https://user-images.githubusercontent.com/58378560/208288010-6054e904-11cb-4d4e-840c-fef72eb23ded.png" width="80%"  ></div>
 
 ## Description
 This repository provides [model](https://github.com/Nonmy/FDCT/blob/main/Model.py) and [checkpoints](https://drive.google.com/drive/folders/1ah__MwOieGXx2t7dOAc2LsDxfGVLAxXh?usp=sharing) (named by the dataset) to reproduce proposed method. Our code is highly relied on [TransCG](https://github.com/Galaxies99/TransCG). We provide a demo [video](https://youtu.be/w_aou5oun9E) of real-world depth completion and robot grasping experiment.
