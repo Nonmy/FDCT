@@ -1,7 +1,7 @@
 # FDCT: A Fast Depth Completion Network for Transparent Objects
 Welcome to the official repository for FDCT. This repository includes experiments and model of the papper [*FDCT: A Fast Depth Completion Network for Transparent Objects*](https://arxiv.com) .
 
-Authors: Tianan Li, Zhenhan Chen, Cheng Wang
+Authors: Tianan Li, Zhehan Chen, Chen Wang and Huan Liu
 
 
 
@@ -26,7 +26,7 @@ If you find this project relevant for your work, please consider citing the pape
 ```
 @inproceedings{li2022FDCT,
   title={FDCT: A Fast Depth Completion Network for Transparent Objects},
-  author={Tianan Li, Zhehan Chen},
+  author={Li,Tianan and Chen, Zhehan and Chen,Wang and Liu, Huan},
   year={2022}
 }
 ```
