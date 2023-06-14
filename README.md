@@ -16,7 +16,6 @@ This repository provides [model](https://github.com/Nonmy/FDCT/blob/main/Model.p
 <div align=center><img src="https://user-images.githubusercontent.com/58378560/199715359-8bff1765-39f0-40d5-986e-cc425802eee5.png" width="75%"  ></div>
 
 
-<div align=center><img src="https://user-images.githubusercontent.com/58378560/199715359-8bff1765-39f0-40d5-986e-cc425802eee5.png" width="75%"  ></div>
 
 
 ## Citation
