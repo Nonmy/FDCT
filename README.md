@@ -23,11 +23,16 @@ This repository provides [model](https://github.com/Nonmy/FDCT/blob/main/Model.p
 If you find this project relevant for your work, please consider citing the paper.
 
 ```
-@inproceedings{li2023FDCT,
-  title={FDCT: A Fast Depth Completion Network for Transparent Objects},
-  author={Li,Tianan and Chen, Zhehan and Liu, Huan and Wang, Chen},
-  year={2022}
-}
+@ARTICLE{10198256,
+  author={Li, Tianan and Chen, Zhehan and Liu, Huan and Wang, Chen},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={FDCT: Fast Depth Completion for Transparent Objects}, 
+  year={2023},
+  volume={8},
+  number={9},
+  pages={5823-5830},
+  doi={10.1109/LRA.2023.3300544}}
+
 ```
 
 ## License
